@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "简历附件",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-upload": "/uni_modules/uview-ui/components/u-upload/u-upload",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "u-modal": "/uni_modules/uview-ui/components/u-modal/u-modal"
+  }
+}

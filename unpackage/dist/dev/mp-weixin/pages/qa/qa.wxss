@@ -1,0 +1,21 @@
+.content.data-v-b54f9b74 {
+  padding: 30rpx 30rpx;
+  background-color: #f6f6f6;
+}
+.faq.data-v-b54f9b74 {
+  background-color: #fff;
+  padding: 30rpx;
+  margin-bottom: 30rpx;
+  border-radius: 30rpx;
+}
+.faq .title.data-v-b54f9b74 {
+  font-size: 40rpx;
+  margin-bottom: 20rpx;
+}
+.faq .shortCut.data-v-b54f9b74 {
+  font-size: 30rpx;
+}
+.faq .shortCut text.data-v-b54f9b74 {
+  font-size: 40rpx;
+}
+

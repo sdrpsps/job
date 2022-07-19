@@ -1,0 +1,67 @@
+.content.data-v-4cedc0c6 {
+  margin: 0 30rpx;
+}
+.content .search.data-v-4cedc0c6 {
+  padding-top: 25rpx;
+}
+.content .hot.data-v-4cedc0c6 {
+  margin-top: 40rpx;
+}
+.content .hot .title.data-v-4cedc0c6 {
+  font-weight: bolder;
+  font-size: 36rpx;
+  color: #333;
+}
+.content .hot .item.data-v-4cedc0c6 {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 24rpx;
+  color: #333;
+}
+.content .hot .item .items.data-v-4cedc0c6 {
+  padding: 19rpx 26rpx;
+  background-color: #f4f4f4;
+  margin: 30rpx 30rpx 30rpx 0;
+  border-radius: 20rpx;
+}
+.content .history.data-v-4cedc0c6 {
+  margin-top: 30rpx;
+}
+.content .history .title.data-v-4cedc0c6 {
+  font-weight: bolder;
+  font-size: 36rpx;
+  color: #333;
+}
+.content .history .item.data-v-4cedc0c6 {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 24rpx;
+  color: #333;
+}
+.content .history .item .items.data-v-4cedc0c6 {
+  padding: 19rpx 26rpx;
+  background-color: #f4f4f4;
+  margin: 30rpx 30rpx 30rpx 0;
+  border-radius: 20rpx;
+}
+.content .guess.data-v-4cedc0c6 {
+  margin-top: 30rpx;
+}
+.content .guess .title.data-v-4cedc0c6 {
+  font-weight: bolder;
+  font-size: 36rpx;
+  color: #333;
+}
+.content .guess .item.data-v-4cedc0c6 {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 24rpx;
+  color: #333;
+}
+.content .guess .item .items.data-v-4cedc0c6 {
+  padding: 19rpx 26rpx;
+  background-color: #f4f4f4;
+  margin: 30rpx 30rpx 30rpx 0;
+  border-radius: 20rpx;
+}
+

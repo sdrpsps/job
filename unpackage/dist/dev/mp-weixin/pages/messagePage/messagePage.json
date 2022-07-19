@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "聊天",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "u-avatar": "/uni_modules/uview-ui/components/u-avatar/u-avatar",
+    "u-input": "/uni_modules/uview-ui/components/u-input/u-input"
+  }
+}

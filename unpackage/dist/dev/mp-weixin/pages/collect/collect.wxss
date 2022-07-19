@@ -1,0 +1,116 @@
+.content .jobCollect .item.data-v-6cfe335c {
+  display: flex;
+  flex-direction: column;
+  margin: 30rpx;
+  padding: 20rpx;
+  border-radius: 20rpx;
+  box-shadow: 0px 0px 10px #D9EEDF;
+}
+.content .jobCollect .item .top.data-v-6cfe335c {
+  display: flex;
+  justify-content: space-between;
+  font-size: 36rpx;
+}
+.content .jobCollect .item .top .jobName.data-v-6cfe335c {
+  color: #333;
+  margin-bottom: 20rpx;
+}
+.content .jobCollect .item .top .salary.data-v-6cfe335c {
+  color: #149639;
+}
+.content .jobCollect .item .mid.data-v-6cfe335c {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  font-size: 20rpx;
+  color: #333;
+}
+.content .jobCollect .item .mid .info.data-v-6cfe335c {
+  margin-bottom: 20rpx;
+}
+.content .jobCollect .item .mid .welfare.data-v-6cfe335c {
+  display: flex;
+  margin-bottom: 30rpx;
+}
+.content .jobCollect .item .mid .welfare .welfareItem.data-v-6cfe335c {
+  padding: 8rpx 16rpx;
+  margin-right: 10rpx;
+  border-radius: 10rpx;
+  background-color: #F4F4F4;
+}
+.content .jobCollect .item .bottom.data-v-6cfe335c {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30rpx;
+}
+.content .jobCollect .item .bottom .companyInfo.data-v-6cfe335c {
+  display: flex;
+  align-items: center;
+}
+.content .jobCollect .item .bottom .companyInfo .left.data-v-6cfe335c {
+  margin-right: 14rpx;
+}
+.content .jobCollect .item .bottom .companyInfo .left image.data-v-6cfe335c {
+  width: 60rpx;
+  height: 60rpx;
+}
+.content .jobCollect .item .bottom .companyInfo .right.data-v-6cfe335c {
+  display: flex;
+  flex-direction: column;
+  color: #333;
+}
+.content .jobCollect .item .bottom .companyInfo .right .companyName.data-v-6cfe335c {
+  font-size: 24rpx;
+}
+.content .jobCollect .item .bottom .companyInfo .right .company.data-v-6cfe335c {
+  font-size: 18rpx;
+}
+.content .companyCollect .item.data-v-6cfe335c {
+  margin: 30rpx;
+  border-radius: 20rpx;
+  box-shadow: 0px 0px 20px #DBEFE1;
+}
+.content .companyCollect .item .top.data-v-6cfe335c {
+  padding-top: 40rpx;
+}
+.content .companyCollect .item .top .companyInfo.data-v-6cfe335c {
+  display: flex;
+}
+.content .companyCollect .item .top .companyInfo .left.data-v-6cfe335c {
+  margin-right: 19rpx;
+}
+.content .companyCollect .item .top .companyInfo .left image.data-v-6cfe335c {
+  margin-left: 32rpx;
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 20rpx;
+}
+.content .companyCollect .item .top .companyInfo .right.data-v-6cfe335c {
+  display: flex;
+  flex-direction: column;
+  color: #333;
+  width: 100%;
+  margin-right: 30rpx;
+}
+.content .companyCollect .item .top .companyInfo .right .companyName.data-v-6cfe335c {
+  font-size: 36rpx;
+  padding-bottom: 20rpx;
+}
+.content .companyCollect .item .top .companyInfo .right .companyInfos.data-v-6cfe335c {
+  font-size: 20rpx;
+  padding-bottom: 20rpx;
+}
+.content .companyCollect .item .top .companyInfo .right .welfare.data-v-6cfe335c {
+  display: flex;
+  font-size: 20rpx;
+  padding-bottom: 30rpx;
+  border-bottom: 1px solid #F4F4F4;
+}
+.content .companyCollect .item .top .companyInfo .right .welfare .welfareItem.data-v-6cfe335c {
+  padding: 8rpx 16rpx;
+  margin-right: 10rpx;
+  border-radius: 10rpx;
+  background-color: #F4F4F4;
+}
+

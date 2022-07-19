@@ -1,0 +1,87 @@
+page.data-v-a91f51d4 {
+  background-color: #F4F4F4;
+}
+.content.data-v-a91f51d4 {
+  padding: 0 30rpx;
+  background-color: #fff;
+}
+.content .top.data-v-a91f51d4 {
+  padding: 30rpx 0;
+}
+.content .top .topMsgBox.data-v-a91f51d4 {
+  display: flex;
+  align-items: center;
+  padding: 30rpx;
+  border-radius: 30rpx;
+  box-shadow: 0px 0px 20px #E4EBF4;
+  background-color: #fff;
+}
+.content .top .topMsgBox .left.data-v-a91f51d4 {
+  border-radius: 50%;
+  margin-right: 30rpx;
+}
+.content .top .topMsgBox .left image.data-v-a91f51d4 {
+  border-radius: 50%;
+  width: 80rpx;
+  height: 80rpx;
+}
+.content .top .topMsgBox .right.data-v-a91f51d4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  color: #333;
+}
+.content .top .topMsgBox .right .msg .title.data-v-a91f51d4 {
+  font-size: 34rpx;
+  margin-bottom: 20rpx;
+}
+.content .top .topMsgBox .right .msg .message.data-v-a91f51d4 {
+  font-size: 24rpx;
+}
+.content .top .topMsgBox .right .arrow image.data-v-a91f51d4 {
+  width: 28rpx;
+  height: 28rpx;
+}
+.content .msgList .item.data-v-a91f51d4 {
+  display: flex;
+  align-items: center;
+  padding: 30rpx 0;
+  border-bottom: 1px solid #E5E5E5;
+}
+.content .msgList .item .left.data-v-a91f51d4 {
+  border-radius: 50%;
+  margin-right: 30rpx;
+}
+.content .msgList .item .left image.data-v-a91f51d4 {
+  border-radius: 50%;
+  width: 80rpx;
+  height: 80rpx;
+}
+.content .msgList .item .right.data-v-a91f51d4 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.content .msgList .item .right .title.data-v-a91f51d4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20rpx;
+}
+.content .msgList .item .right .title .companyName.data-v-a91f51d4 {
+  font-size: 34rpx;
+  color: #333;
+}
+.content .msgList .item .right .title .time.data-v-a91f51d4 {
+  font-size: 18rpx;
+  color: #999;
+}
+.content .msgList .item .right .msg.data-v-a91f51d4 {
+  font-size: 24rpx;
+  color: #999;
+}
+.content .msgList .item.data-v-a91f51d4:last-child {
+  border-bottom: 0;
+}
+

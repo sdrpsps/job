@@ -1,0 +1,118 @@
+.content .status_bar.data-v-0535d882 {
+  height: 25px;
+  width: 100%;
+}
+.content .header.data-v-0535d882 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 96rpx;
+  background-color: #149639;
+}
+.content .header .city.data-v-0535d882 {
+  display: flex;
+  color: #fff;
+}
+.content .header .city .cityName.data-v-0535d882 {
+  margin-left: 30rpx;
+  margin-right: 20rpx;
+}
+.content .header .search.data-v-0535d882 {
+  width: 70%;
+  margin: 0 30rpx;
+}
+.content .swiper-wrap.data-v-0535d882 {
+  height: 300rpx;
+}
+.content .tab.data-v-0535d882 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.content .tab .right.data-v-0535d882 {
+  font-size: 24rpx;
+  color: #333;
+  padding: 14rpx 26rpx;
+  margin-right: 30rpx;
+  border-radius: 10rpx;
+  background-color: #f5f5f5;
+}
+.content .jobList.data-v-0535d882 {
+  margin: 0 30rpx;
+}
+.content .jobList .item.data-v-0535d882 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 28rpx;
+  border-bottom: 1px solid #bbb;
+}
+.content .jobList .item .top.data-v-0535d882 {
+  display: flex;
+  justify-content: space-between;
+  font-size: 36rpx;
+}
+.content .jobList .item .top .jobName.data-v-0535d882 {
+  color: #333;
+  margin-bottom: 20rpx;
+}
+.content .jobList .item .top .salary.data-v-0535d882 {
+  color: #149639;
+}
+.content .jobList .item .mid.data-v-0535d882 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  font-size: 20rpx;
+  color: #333;
+}
+.content .jobList .item .mid .info.data-v-0535d882 {
+  margin-bottom: 20rpx;
+}
+.content .jobList .item .mid .welfare.data-v-0535d882 {
+  display: flex;
+  margin-bottom: 30rpx;
+}
+.content .jobList .item .mid .welfare .welfareItem.data-v-0535d882 {
+  padding: 8rpx 16rpx;
+  margin-right: 10rpx;
+  border-radius: 10rpx;
+  background-color: #F4F4F4;
+}
+.content .jobList .item .bottom.data-v-0535d882 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30rpx;
+}
+.content .jobList .item .bottom .companyInfo.data-v-0535d882 {
+  display: flex;
+  align-items: center;
+}
+.content .jobList .item .bottom .companyInfo .left.data-v-0535d882 {
+  margin-right: 14rpx;
+}
+.content .jobList .item .bottom .companyInfo .left image.data-v-0535d882 {
+  width: 60rpx;
+  height: 60rpx;
+}
+.content .jobList .item .bottom .companyInfo .right.data-v-0535d882 {
+  display: flex;
+  flex-direction: column;
+  color: #333;
+}
+.content .jobList .item .bottom .companyInfo .right .companyName.data-v-0535d882 {
+  font-size: 24rpx;
+}
+.content .jobList .item .bottom .companyInfo .right .company.data-v-0535d882 {
+  font-size: 18rpx;
+}
+.content .jobList .item .bottom .btn.data-v-0535d882 {
+  height: 50rpx;
+}
+.content .jobList .item.data-v-0535d882:first-child {
+  margin-top: 40rpx;
+}
+.content .jobList .item.data-v-0535d882:last-child {
+  border-bottom: 0;
+}
+

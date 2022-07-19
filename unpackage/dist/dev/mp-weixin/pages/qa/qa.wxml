@@ -1,0 +1,1 @@
+<view class="content data-v-b54f9b74"><block wx:for="{{list}}" wx:for-item="ele" wx:for-index="__i0__" wx:key="_id"><view class="faq data-v-b54f9b74"><view class="title data-v-b54f9b74"><text class="data-v-b54f9b74">问</text>{{"："+ele.title+''}}</view><view class="shortCut data-v-b54f9b74"><text class="data-v-b54f9b74"></text>{{''+ele.shortCut+''}}</view></view></block></view>

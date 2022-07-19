@@ -1,0 +1,37 @@
+.content.data-v-b237504c {
+  margin: 0 105rpx;
+}
+.content .hello.data-v-b237504c {
+  padding-top: 205rpx;
+}
+.content .hello .top.data-v-b237504c {
+  margin-bottom: 29rpx;
+  font-size: 48rpx;
+  font-weight: bold;
+  color: #181818;
+}
+.content .hello .bottom.data-v-b237504c {
+  display: flex;
+  font-size: 36rpx;
+  font-weight: lighter;
+}
+.content .hello .bottom .right.data-v-b237504c {
+  color: #333;
+  font-weight: 400;
+  border-bottom: 1px solid #333;
+}
+.content .loginForm.data-v-b237504c {
+  margin-top: 180rpx;
+}
+.content .btn.data-v-b237504c {
+  margin-top: 234rpx;
+}
+.content .divider.data-v-b237504c {
+  margin-top: 105rpx;
+}
+.content .wechat.data-v-b237504c {
+  margin: 0 auto;
+  width: 70rpx;
+  height: 57rpx;
+}
+

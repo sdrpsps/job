@@ -1,0 +1,21 @@
+{
+	"name": "zhiyebang",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"dependencies": {
+		"aegis-mp-sdk": "^1.24.55",
+		"aegis-web-sdk": "^1.35.23",
+		"aegis-weex-sdk": "^1.24.46",
+		"cos-wx-sdk-v5": "^1.0.10",
+		"tim-js-sdk": "^2.17.0",
+		"tim-upload-plugin": "^1.0.4",
+		"tim-wx-sdk": "^2.17.0"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC"
+}

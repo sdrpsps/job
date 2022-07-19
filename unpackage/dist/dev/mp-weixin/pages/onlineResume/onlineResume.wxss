@@ -1,0 +1,90 @@
+.content.data-v-74b357f4 {
+  margin: 0 30rpx;
+}
+.content .resume .userInfo.data-v-74b357f4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 40rpx;
+  border-bottom: 1px solid #f4f4f4;
+}
+.content .resume .userInfo .left .username.data-v-74b357f4 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30rpx;
+}
+.content .resume .userInfo .left .username .name.data-v-74b357f4 {
+  font-size: 40rpx;
+  color: #333;
+}
+.content .resume .userInfo .left .username .icon.data-v-74b357f4 {
+  margin-left: 20rpx;
+}
+.content .resume .userInfo .left .other.data-v-74b357f4 {
+  font-size: 24rpx;
+  color: #333;
+}
+.content .resume .userInfo .right.data-v-74b357f4 {
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px;
+}
+.content .resume .userInfo .right image.data-v-74b357f4 {
+  width: 140rpx;
+  height: 140rpx;
+  border-radius: 50%;
+}
+.content .resume .advantage.data-v-74b357f4 {
+  padding-bottom: 40rpx;
+  border-bottom: 1px solid #f4f4f4;
+}
+.content .resume .advantage .top.data-v-74b357f4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 40rpx 0;
+}
+.content .resume .advantage .top .title.data-v-74b357f4 {
+  font-size: 30rpx;
+  font-weight: bolder;
+  color: 333;
+}
+.content .resume .advantage .bottom.data-v-74b357f4 {
+  font-size: 20rpx;
+}
+.content .resume .expectations.data-v-74b357f4 {
+  padding-bottom: 40rpx;
+  border-bottom: 1px solid #f4f4f4;
+}
+.content .resume .expectations .top.data-v-74b357f4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 40rpx 0;
+}
+.content .resume .expectations .top .title.data-v-74b357f4 {
+  font-size: 30rpx;
+  font-weight: bolder;
+  color: 333;
+}
+.content .resume .expectations .bottom.data-v-74b357f4 {
+  font-size: 20rpx;
+}
+.content .resume .experience.data-v-74b357f4 {
+  padding-bottom: 40rpx;
+  border-bottom: 1px solid #f4f4f4;
+}
+.content .resume .experience .top.data-v-74b357f4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 40rpx 0;
+}
+.content .resume .experience .top .title.data-v-74b357f4 {
+  font-size: 30rpx;
+  font-weight: bolder;
+  color: 333;
+}
+.content .resume .experience .bottom.data-v-74b357f4 {
+  font-size: 20rpx;
+}
+
